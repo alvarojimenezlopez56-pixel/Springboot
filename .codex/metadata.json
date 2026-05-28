@@ -1,0 +1,10 @@
+{
+  "project": "FUT Manager",
+  "version": "1.0.0",
+  "language": "es",
+  "frameworks": {
+    "backend": "Spring Boot 4.0.6",
+    "frontend": "React 18"
+  },
+  "lastAudited": "2026-05-28"
+}
